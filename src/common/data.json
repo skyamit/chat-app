@@ -1,0 +1,134 @@
+{
+  "name":"Amit Kumar",
+  "src":"https://t4.ftcdn.net/jpg/03/64/21/11/360_F_364211147_1qgLVxv1Tcq0Ohz3FawUfrtONzz8nq3e.jpg",
+  "contact":[
+    {
+      "name":"George",
+      "src":"https://marketplace.canva.com/EAFXS8-cvyQ/1/0/1600w/canva-brown-and-light-brown%2C-circle-framed-instagram-profile-picture-2PE9qJLmPac.jpg",
+      "phoneNo":"1",
+      "msg":[
+        {
+          "isMine":false,
+          "msg":"Hello Amit"
+        },
+        {
+          "isMine":true,
+          "msg":"Hello George"
+        },
+        {
+          "isMine":false,
+          "msg":"What are you doing currently"
+        }
+      ]
+    },
+    {
+      "name":"George New",
+      "phoneNo":"2",
+      "src":"https://marketplace.canva.com/EAFXS8-cvyQ/1/0/1600w/canva-brown-and-light-brown%2C-circle-framed-instagram-profile-picture-2PE9qJLmPac.jpg",
+      "msg":[
+        
+      ]
+    },{
+      "name":"Anjali Kumari",
+      "phoneNo":"3",
+      "src":"https://imgv3.fotor.com/images/gallery/AI-3D-Female-Profile-Picture.jpg",
+      "msg":[
+        {
+          "isMine":false,
+          "msg":"Hello, This is friend's msg"
+        },
+        {
+          "isMine":true,
+          "msg":"Hello, This is mine msg"
+        },
+        {
+          "isMine":false,
+          "msg":"Hello, This is friends's second msg"
+        },
+        {
+          "isMine":true,
+          "msg":"Hello, This is mine second msg"
+        },
+        {
+          "isMine":true,
+          "msg":"Hello, This is mine third msg"
+        }
+      ]
+    },
+    {
+      "name":"Sanju Kumari",
+      "phoneNo":"4",
+      "src":"https://imgv3.fotor.com/images/gallery/AI-3D-Female-Profile-Picture.jpg",
+      "msg":[
+        {
+          "isMine":false,
+          "msg":"Hello, This is friend's msg"
+        },
+        {
+          "isMine":true,
+          "msg":"Hello, This is mine msg"
+        },
+        {
+          "isMine":false,
+          "msg":"Hello, This is friends's second msg"
+        },
+        {
+          "isMine":true,
+          "msg":"Hello, This is mine second msg"
+        },
+        {
+          "isMine":true,
+          "msg":"Hello, This is mine third msg"
+        },
+        {
+          "isMine":false,
+          "msg":"Hello, This is friend's msg"
+        },
+        {
+          "isMine":true,
+          "msg":"Hello, This is mine msg"
+        },
+        {
+          "isMine":false,
+          "msg":"Hello, This is friends's second msg"
+        },
+        {
+          "isMine":true,
+          "msg":"Hello, This is mine second msg"
+        },
+        {
+          "isMine":true,
+          "msg":"Hello, This is mine third msg"
+        },
+        {
+          "isMine":false,
+          "msg":"Hello, This is friend's msg"
+        },
+        {
+          "isMine":true,
+          "msg":"Hello, This is mine msg"
+        },
+        {
+          "isMine":false,
+          "msg":"Hello, This is friends's second msg"
+        },
+        {
+          "isMine":true,
+          "msg":"Hello, This is mine second msg"
+        },
+        {
+          "isMine":true,
+          "msg":"Hello, This is last msg"
+        }
+      ]
+    },
+    {
+      "name":"Sumit Kumar",
+      "src":"https://images.pexels.com/photos/771742/pexels-photo-771742.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "phoneNo":"5",
+      "msg":[
+        
+      ]
+    }
+  ]
+}
